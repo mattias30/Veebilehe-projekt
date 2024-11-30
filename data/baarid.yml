@@ -1,0 +1,10 @@
+versioon: 1
+baarid:
+  Kivi baar:
+    asukoht: [58.38206976315394, 26.721660318009565]
+    url: https://www.kivibaar.ee/
+    joogid:
+      Leffe: 5
+      Peroni: 5
+      ...
+
