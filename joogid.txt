@@ -257,9 +257,9 @@ Must nunn : 5
 Corona : 4.5
 Pühaste : 6
 Ginger Joe : 5
-Guiness  :5.5
+Guiness : 5.5
 Paulander : 6
 Westons : 7
 Paljasõun : 4.5
 Sheppy's : 7
-Strongero 5.5
+Strongero : 5.5
