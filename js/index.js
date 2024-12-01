@@ -11,5 +11,9 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 
 for (const nimi of Object.keys(data.baarid)){
+
     console.log(data.baarid[nimi]);
+    const a = data.baarid[nimi]["pin"] = L.marker(data.baarid[nimi].asukoht).addTo(kaart)
+    a.bindPopup(nimi)
 };
+
