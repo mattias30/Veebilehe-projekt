@@ -12,6 +12,21 @@ baarid:
   Space bar:
       asukoht: [58.38136426962201, 26.721853547356165]
       url: ei leidu
+  Möku bar:
+      asukoht: [59.440380573084425, 24.7290868795477]
+      url: https://moku.ee/
+  Alibi bar:
+      asukoht: [58.382148792593775, 26.722109450626366]
+      url: https://alibibaar.ee
+  Seik bar:
+      asukoht: [58.38169316670489, 26.721693814379886]
+      url: ei leidu
+  Satiir bar: 
+      asukoht: [58.38163109519058, 26.72198369295413]
+      url: ei leidu
+  Trepp bar:
+      asukoht: [58.3820252929285, 26.72160244692117]
+      url: ei leidu
 
     Kivi baar:
     joogid:
@@ -216,3 +231,269 @@ baarid:
       Jääger : 4
       Liköör : 5
       Bourbon : 8
+
+      MÖKU:
+
+      Õlu/siider:
+      Punk ipa : 6.1/6.7
+      Must nunn : 4.6
+      Rouge : 5.6
+      Tartu pilsner : 5.6
+      Pirnisiider : 4.6
+      Premium : 4.6
+      Westons vintage : 6.7
+      Brothers Toffee apple : 6.1
+      Sheppy's elderflower : 6.7
+      Sheppy's raspberry : 6.7
+      Punch greip : 6.7
+      Punch apelsin : 6.7
+      Punch moscow mule : 6.7
+      Original longero : 4.7
+      Mull : 5.6
+      Bomber : 6.7
+      Orange longero : 4.7
+      Pineapple longero : 4.7
+      Alexander : 4.3
+      Pilsner : 4
+      Valmiermuiza : 5.6
+      Heineken : 4.9
+      Ginger Joe : 5.1
+      Hoegaarden : 5.1
+      Kronenburg blanc : 5
+      Blond munk : 4.5
+      Banana bread : 5.6
+      Amigos : 4.6
+      Tõmmu hiid : 4.3
+      Porter : 4.3
+      Rocherfort 10: 7.2
+      Pistachu : 6.1
+      Peoleo : 6.1
+      Radiant revel : 6.1
+      House of temptation : 6.1
+      Salted plum sour : 6.1
+      Kosmos : 6.1
+      Virmalised : 6.1
+      Sun city : 6.1
+      Tilk : 6.1
+      Vulin : 6.1
+      Orange gose : 6.1
+      
+      Kokteilid: 
+      Whiskey sour : 7
+      Gin & tonic : 7.3
+      Greip job : 7.7
+      Roosamanna : 9.7
+      Moku aperol : 7.7
+      Anne kanal : 8.7
+      Liivi kits : 7.7
+      RC, GT : 7.5
+      
+      Vein:
+      Vinho verde : 4.6/27.5
+      Vahuvein : 6
+      Punane : 4.6/26.5
+      Valge : 4.6/26.5
+      
+      Shotid:
+      Pussy : 4.4
+      Moe viin : 4.1
+      Sparta : 5.6
+      Jager : 4.1
+      Tekiila : 4.1
+      Vana Tallinn : 4.1
+      
+      ALIBI:
+      
+      Kokteilid: 
+      Whiskey Sour : 11
+      Espresso Martini : 10
+      Negroni : 10
+      Paloma : 10
+      Bloody Mary : 10
+      Lydia : 10
+      Siuru : 10
+      Gloria : 11
+      Wattmann : 11
+      Central : 10
+      Vogel : 10
+      Pallas : 11
+      Peintrum : 11
+      KoKoKo : 10
+      Ott Fashioned : 10
+      Suli : 8
+      Kelm : 8
+      
+      SEIK :
+      
+      Õlu/Longero/siider:
+      Corona : 5
+      Kronenbourg Blanc : 5
+      Alexander : 5
+      Blond munk : 5
+      Must nunn : 5
+      Guiness : 5
+      Grep : 5
+      Apelsin : 5
+      Vodka & lime : 5
+      Ananass : 5
+      Lemonade : 5
+      Strongero : 6
+      Somersby : 5
+      Westons : 6
+      
+      Kokteilid: 
+      Passionita : 10
+      El Diablo : 9/12
+      Longero Colada : 9
+      Seik IceT : 9
+      Corona Sunrise : 9
+      Vodka Bull : 9/12
+      Jägerbull : 9/12
+      Watermelon bull : 9/12
+      Seik on the Beach : 8/11
+      Tom Collins : 9/12
+      Rum & Cola : 9/12
+      Gin & Toonik : 9/12
+      Long Island Ice Tea : 12
+      Jägerbomb : 8
+      Skittles bomb : 9
+      Irish Car bomb : 9
+      Matrix : 9
+      Napalm : 10
+      Bath bomb : 8
+      
+      Kange ja shotid (1/5, 5tk/10tk):
+      Jägerbull : 13/20
+      Poco Loco : 14/21
+      Kurk kuiv : 14/21
+      Jäätee : 15/23
+      More Passion : 15/23
+      More energy : 15/23
+      Õunakook : 16/24
+      Päris Hilton : 17/26
+      Golden Sour : 17 / 26
+      Hot shot : 18/27
+      Hapuoblikas : 18/27
+      DOn Juan : 24/36
+      Tekiila : 5/18
+      Jägermeister : 5/18
+      Danzka Vodka : 5/18
+      Fireball : 5/18
+      Cazcabel kohvi: 5.5/20
+      
+      SATIIR:
+      
+      Õlu/siider: 
+      Budweiser lager : 6
+      Premium : 6
+      Estrella Damm : 6
+      Alexander : 6
+      Jätku leiba : 8
+      Siider : 5
+      Tõmmu hiid : 5
+      Saksa nisukas : 6
+      Galipette : 5
+      Lindemans kriek : 5
+      Valmiermuiza : 6
+      Must nunn : 5
+      Paulander : 5
+      Pilsner Urquell : 5
+      Anderson's : 5
+      Corona : 5
+      Heineken : 4.5
+      
+      Kange: 
+      Jameson : 8
+      Pyrat XO : 7.5
+      Bulleit Bourbon : 8
+      Moe viin : 4
+      Hennesy VSOP : 8
+      Tekiila : 7/8
+      Grey Goose : 7.5
+      Jägermeister : 3
+      Branca menta : 4
+      Vana Tallinn : 4
+      Minttu : 4
+      J.J Kurbergi viinad : 4
+      Rhum cafe : 4
+      Ararat 10 YO : 8
+      Kokteilid:
+      Morgan & cola : 9
+      Tanqueray ten & tonic : 10
+      Junimperium gin & tonic : 8
+      Monkey 47 gin & tonic : 13
+      
+      TREPP:
+      
+      Kokteilid: 
+      Vodka & Red bull : 7.5/11
+      Jäger & Red bull : 7.5/11
+      Rum & Cola : 7.5/11
+      Gin & Tonic : 7.5/11
+      Skinny bitch : 7.5/11
+      Tequila Sunrise : 7.5/11
+      Sex on the Beach : 7.5/11
+      Aperol Spritz : 8
+      Tom Collins : 8/12
+      Whiskey sour : 8
+      Bloody Mary : 88
+      Negroni : 9
+      Pina Colada : 9
+      Long Island Iced Tea : 10
+      Luunja kuma : 8
+      Illusioon : 8
+      Tropic Sour : 8
+      Buduaar : 9
+      Corona sunrise : 8.5
+      15 Magamata Ööd : 9
+      Raspberry Lip Gloss : 8
+      Not My First Rodeo : 8
+      Nätsuprintsess : 8
+      Longero Island Iced Tea : 9
+      
+      Shotid(1, 5, 10)
+      Jääkaru : 4/16
+      Hapuoblikas : 4/16
+      Rannapiiga : 4.5/18
+      Jaagup Kreem : 4/16
+      Üleval näeme! : 5/20
+      Mamma õunakook : 4/16
+      Golden sour : 4.5/18
+      Sa ei taha seda : 4/16
+      McQueen : 4.5/18
+      Jägerbomb : 9
+      Vedel marihuaana : 8
+      Kakas saia, üks piim : 9
+      Bazinga : 9
+      Megan Fox : 9
+      Silmatilgad : 9
+      Suudlevad tudengid : 9
+      Nibumetiin : 9
+      When life gives you lemons : 9
+      Tartu vaim : 14
+      Allmaailm : 17
+      Cutecumber : 15
+      Tutti Frutti : 16
+      Fineapple : 16
+      Roosiaed : 16
+      Kai Pitsit : 16
+      Bounty Shot : 17
+      10 tilka verd : 14
+      
+      Õlu/siider:
+      Kronenbourg : 5.5
+      Longero : 5.5
+      Somersby  : 5.5
+      Alexander : 5
+      Karl Friedrich : 4.5
+      Blond munk : 5
+      Must nunn : 5
+      Corona : 4.5
+      Pühaste : 6
+      Ginger Joe : 5
+      Guiness : 5.5
+      Paulander : 6
+      Westons : 7
+      Paljasõun : 4.5
+      Sheppy's : 7
+      Strongero : 5.5
