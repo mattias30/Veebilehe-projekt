@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baarimenüü</title>
+    <link rel="stylesheet" href="stiil.css">
+    
+</head>
+<body>
+    <h1>Baari Menüü</h1>
+    <button class="menu-button" onclick="showMenu('moku')">MÖKU</button>
+    <button class="menu-button" onclick="showMenu('alibi')">ALIBI</button>
+    <button class="menu-button" onclick="showMenu('seik')">SEIK</button>
+    <button class="menu-button" onclick="showMenu('satiir')">SATIIR</button>
+    <button class="menu-button" onclick="showMenu('trepp')">TREPP</button>
+
+    <!-- Baarimenüüd -->
+    <div id="moku" class="menu-container">
+        <h2>MÖKU</h2>
+            <h3>Õlu/siider</h3>
+            <div class="menu-item"><span>Punk IPA</span> <span>6.1/6.7</span></div>
+            <div class="menu-item"><span>Must nunn</span> <span>4.6</span></div>
+            <div class="menu-item"><span>Rouge</span> <span>5.6</span></div>
+            <div class="menu-item"><span>Tartu pilsner</span> <span>5.6</span></div>
+            <div class="menu-item"><span>Pirnisiider</span> <span>4.6</span></div>
+            <div class="menu-item"><span>Premium</span> <span>4.6</span></div>
+            <div class="menu-item"><span>Westons Vintage</span> <span>6.7</span></div>
+            <div class="menu-item"><span>Brothers Toffee Apple</span> <span>6.1</span></div>
+            <div class="menu-item"><span>Sheppy's Elderflower</span> <span>6.7</span></div>
+            <div class="menu-item"><span>Sheppy's Raspberry</span> <span>6.7</span></div>
+            <div class="menu-item"><span>Punch Greip</span> <span>6.7</span></div>
+            <div class="menu-item"><span>Punch Apelsin</span> <span>6.7</span></div>
+            <div class="menu-item"><span>Punch Moscow Mule</span> <span>6.7</span></div>
+            <div class="menu-item"><span>Original Longero</span> <span>4.7</span></div>
+            <div class="menu-item"><span>Mull</span> <span>5.6</span></div>
+            <div class="menu-item"><span>Bomber</span> <span>6.7</span></div>
+            <div class="menu-item"><span>Orange Longero</span> <span>4.7</span></div>
+            <div class="menu-item"><span>Pineapple Longero</span> <span>4.7</span></div>
+            <div class="menu-item"><span>Alexander</span> <span>4.3</span></div>
+            <div class="menu-item"><span>Pilsner</span> <span>4</span></div>
+            <div class="menu-item"><span>Valmiermuiza</span> <span>5.6</span></div>
+            <div class="menu-item"><span>Heineken</span> <span>4.9</span></div>
+            <div class="menu-item"><span>Ginger Joe</span> <span>5.1</span></div>
+            <div class="menu-item"><span>Hoegaarden</span> <span>5.1</span></div>
+            <div class="menu-item"><span>Kronenburg Blanc</span> <span>5</span></div>
+            <div class="menu-item"><span>Blond Munk</span> <span>4.5</span></div>
+            <div class="menu-item"><span>Banana Bread</span> <span>5.6</span></div>
+            <div class="menu-item"><span>Amigos</span> <span>4.6</span></div>
+            <div class="menu-item"><span>Tõmmu Hiid</span> <span>4.3</span></div>
+            <div class="menu-item"><span>Porter</span> <span>4.3</span></div>
+            <div class="menu-item"><span>Rochefort 10</span> <span>7.2</span></div>
+            <div class="menu-item"><span>Pistachu</span> <span>6.1</span></div>
+            <div class="menu-item"><span>Peoleo</span> <span>6.1</span></div>
+            <div class="menu-item"><span>Radiant Revel</span> <span>6.1</span></div>
+            <div class="menu-item"><span>House of Temptation</span> <span>6.1</span></div>
+            <div class="menu-item"><span>Salted Plum Sour</span> <span>6.1</span></div>
+            <div class="menu-item"><span>Kosmos</span> <span>6.1</span></div>
+            <div class="menu-item"><span>Virmalised</span> <span>6.1</span></div>
+            <div class="menu-item"><span>Sun City</span> <span>6.1</span></div>
+            <div class="menu-item"><span>Tilk</span> <span>6.1</span></div>
+            <div class="menu-item"><span>Vulin</span> <span>6.1</span></div>
+            <div class="menu-item"><span>Orange Gose</span> <span>6.1</span></div>
+            <h3>Kokteilid</h3>
+            <div class="menu-item"><span>Whiskey Sour</span> <span>7</span></div>
+            <div class="menu-item"><span>Gin & Tonic</span> <span>7.3</span></div>
+            <div class="menu-item"><span>Greip Job</span> <span>7.7</span></div>
+            <div class="menu-item"><span>Roosamanna</span> <span>9.7</span></div>
+            <div class="menu-item"><span>Moku Aperol</span> <span>7.7</span></div>
+            <div class="menu-item"><span>Anne Kanal</span> <span>8.7</span></div>
+            <div class="menu-item"><span>Liivi Kits</span> <span>7.7</span></div>
+            <div class="menu-item"><span>RC, GT</span> <span>7.5</span></div>
+            <h3>Vein</h3>
+            <div class="menu-item"><span>Vinho Verde</span> <span>4.6/27.5</span></div>
+            <div class="menu-item"><span>Vahuvein</span> <span>6</span></div>
+            <div class="menu-item"><span>Punane</span> <span>4.6/26.5</span></div>
+            <div class="menu-item"><span>Valge</span> <span>4.6/26.5</span></div>
+            <h3>Shotid</h3>
+            <div class="menu-item"><span>Pussy</span> <span>4.4</span></div>
+            <div class="menu-item"><span>Moe Viin</span> <span>4.1</span></div>
+            <div class="menu-item"><span>Sparta</span> <span>4.5</span></div>
+            <div class="menu-item"><span>Mintu Shott</span> <span>4.5</span></div>
+    </div>
+
+    <div id="alibi" class="menu-container">
+        <h2>ALIBI</h2>
+        <h3>Kokteilid</h3>
+        <div class="menu-item"><span>Whiskey Sour</span> <span>11</span></div>
+        <div class="menu-item"><span>Espresso Martini</span> <span>10</span></div>
+        <div class="menu-item"><span>Negroni</span> <span>10</span></div>
+        <div class="menu-item"><span>Paloma</span> <span>10</span></div>
+        <div class="menu-item"><span>Bloody Mary</span> <span>10</span></div>
+        <div class="menu-item"><span>Lydia</span> <span>10</span></div>
+        <div class="menu-item"><span>Siuru</span> <span>10</span></div>
+        <div class="menu-item"><span>Gloria</span> <span>11</span></div>
+        <div class="menu-item"><span>Wattmann</span> <span>11</span></div>
+        <div class="menu-item"><span>Central</span> <span>10</span></div>
+        <div class="menu-item"><span>Vogel</span> <span>10</span></div>
+        <div class="menu-item"><span>Pallas</span> <span>11</span></div>
+        <div class="menu-item"><span>Peintrum</span> <span>11</span></div>
+        <div class="menu-item"><span>KoKoKo</span> <span>10</span></div>
+        <div class="menu-item"><span>Ott Fashioned</span> <span>10</span></div>
+        <div class="menu-item"><span>Suli</span> <span>8</span></div>
+        <div class="menu-item"><span>Kelm</span> <span>8</span></div>
+    </div>
+
+    <div id="seik" class="menu-container">
+        <h2>SEIK</h2>
+        <h3>Õlu/Longero/Siider</h3>
+        <div class="menu-item"><span>Corona</span> <span>5</span></div>
+        <div class="menu-item"><span>Kronenbourg Blanc</span> <span>5</span></div>
+        <div class="menu-item"><span>Alexander</span> <span>5</span></div>
+        <div class="menu-item"><span>Blond munk</span> <span>5</span></div>
+        <div class="menu-item"><span>Must nunn</span> <span>5</span></div>
+        <div class="menu-item"><span>Guiness</span> <span>5</span></div>
+        <div class="menu-item"><span>Grep</span> <span>5</span></div>
+        <div class="menu-item"><span>Apelsin</span> <span>5</span></div>
+        <div class="menu-item"><span>Vodka & Lime</span> <span>5</span></div>
+        <div class="menu-item"><span>Ananass</span> <span>5</span></div>
+        <div class="menu-item"><span>Lemonade</span> <span>5</span></div>
+        <div class="menu-item"><span>Strongero</span> <span>6</span></div>
+        <div class="menu-item"><span>Somersby</span> <span>5</span></div>
+        <div class="menu-item"><span>Westons</span> <span>6</span></div>
+        <h3>Kokteilid</h3>
+        <div class="menu-item"><span>Passionita</span> <span>10</span></div>
+        <div class="menu-item"><span>El Diablo</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Longero Colada</span> <span>9</span></div>
+        <div class="menu-item"><span>Seik IceT</span> <span>9</span></div>
+        <div class="menu-item"><span>Corona Sunrise</span> <span>9</span></div>
+        <div class="menu-item"><span>Vodka Bull</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Jägerbull</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Watermelon Bull</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Seik on the Beach</span> <span>8/11</span></div>
+        <div class="menu-item"><span>Tom Collins</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Rum & Cola</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Gin & Toonik</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Long Island Ice Tea</span> <span>12</span></div>
+        <div class="menu-item"><span>Jägerbomb</span> <span>8</span></div>
+        <div class="menu-item"><span>Skittles bomb</span> <span>9</span></div>
+        <div class="menu-item"><span>Irish Car Bomb</span> <span>9</span></div>
+        <div class="menu-item"><span>Matrix</span> <span>9</span></div>
+        <div class="menu-item"><span>Napalm</span> <span>10</span></div>
+        <div class="menu-item"><span>Bath Bomb</span> <span>8</span></div>
+        <h3>Kokteilid</h3>
+        <div class="menu-item"><span>Passionita</span> <span>10</span></div>
+        <div class="menu-item"><span>El Diablo</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Longero Colada</span> <span>9</span></div>
+        <div class="menu-item"><span>Seik IceT</span> <span>9</span></div>
+        <div class="menu-item"><span>Corona Sunrise</span> <span>9</span></div>
+        <div class="menu-item"><span>Vodka Bull</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Jägerbull</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Watermelon Bull</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Seik on the Beach</span> <span>8/11</span></div>
+        <div class="menu-item"><span>Tom Collins</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Rum & Cola</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Gin & Toonik</span> <span>9/12</span></div>
+        <div class="menu-item"><span>Long Island Ice Tea</span> <span>12</span></div>
+        <div class="menu-item"><span>Jägerbomb</span> <span>8</span></div>
+        <div class="menu-item"><span>Skittles bomb</span> <span>9</span></div>
+        <div class="menu-item"><span>Irish Car Bomb</span> <span>9</span></div>
+        <div class="menu-item"><span>Matrix</span> <span>9</span></div>
+        <div class="menu-item"><span>Napalm</span> <span>10</span></div>
+        <div class="menu-item"><span>Bath Bomb</span> <span>8</span></div>
+        <h3>Kange ja shotid</h3>
+        <div class="menu-item"><span>Jägerbull</span> <span>13/20</span></div>
+        <div class="menu-item"><span>Poco Loco</span> <span>14/21</span></div>
+        <div class="menu-item"><span>Kurk Kuiv</span> <span>14/21</span></div>
+        <div class="menu-item"><span>Jäätee</span> <span>15/23</span></div>
+        <div class="menu-item"><span>More Passion</span> <span>15/23</span></div>
+        <div class="menu-item"><span>More Energy</span> <span>15/23</span></div>
+        <div class="menu-item"><span>Õunakook</span> <span>16/24</span></div>
+        <div class="menu-item"><span>Päris Hilton</span> <span>17/26</span></div>
+        <div class="menu-item"><span>Golden Sour</span> <span>17/26</span></div>
+        <div class="menu-item"><span>Hot Shot</span> <span>18/27</span></div>
+        <div class="menu-item"><span>Hapuoblikas</span> <span>18/27</span></div>
+        <div class="menu-item"><span>Don Juan</span> <span>24/36</span></div>
+        <div class="menu-item"><span>Tekiila</span> <span>5/18</span></div>
+        <div class="menu-item"><span>Jägermeister</span> <span>5/18</span></div>
+        <div class="menu-item"><span>Danzka Vodka</span> <span>5/18</span></div>
+        <div class="menu-item"><span>Fireball</span> <span>5/18</span></div>
+        <div class="menu-item"><span>Cazcabel Kohvi</span> <span>5.5/20</span></div>        
+        
+    </div>
+
+    <div id="satiir" class="menu-container">
+        <h2>SATIIR</h2>
+        <h3>Õlu/Siider</h3>
+        <div class="menu-item"><span>Budweiser Lager</span> <span>6</span></div>
+        <div class="menu-item"><span>Premium</span> <span>6</span></div>
+        <div class="menu-item"><span>Estrella Damm</span> <span>6</span></div>
+        <div class="menu-item"><span>Alexander</span> <span>6</span></div>
+        <div class="menu-item"><span>Jätku Leiba</span> <span>8</span></div>
+        <div class="menu-item"><span>Siider</span> <span>5</span></div>
+        <div class="menu-item"><span>Tõmmu Hiid</span> <span>5</span></div>
+        <div class="menu-item"><span>Saksa Nisukas</span> <span>6</span></div>
+        <div class="menu-item"><span>Galipette</span> <span>5</span></div>
+        <div class="menu-item"><span>Lindemans Kriek</span> <span>5</span></div>
+        <div class="menu-item"><span>Valmiermuiza</span> <span>6</span></div>
+        <div class="menu-item"><span>Must Nunn</span> <span>5</span></div>
+        <div class="menu-item"><span>Paulander</span> <span>5</span></div>
+        <div class="menu-item"><span>Pilsner Urquell</span> <span>5</span></div>
+        <div class="menu-item"><span>Anderson's</span> <span>5</span></div>
+        <div class="menu-item"><span>Corona</span> <span>5</span></div>
+        <div class="menu-item"><span>Heineken</span> <span>4.5</span></div>
+        <h3>Kange</h3>
+        <div class="menu-item"><span>Jameson</span> <span>8</span></div>
+        <div class="menu-item"><span>Pyrat XO</span> <span>7.5</span></div>
+        <div class="menu-item"><span>Bulleit Bourbon</span> <span>8</span></div>
+        <div class="menu-item"><span>Moe Viin</span> <span>4</span></div>
+        <div class="menu-item"><span>Hennessy VSOP</span> <span>8</span></div>
+        <div class="menu-item"><span>Tekiila</span> <span>7/8</span></div>
+        <div class="menu-item"><span>Grey Goose</span> <span>7.5</span></div>
+        <div class="menu-item"><span>Jägermeister</span> <span>3</span></div>
+        <div class="menu-item"><span>Branca Menta</span> <span>4</span></div>
+        <div class="menu-item"><span>Vana Tallinn</span> <span>4</span></div>
+        <div class="menu-item"><span>Minttu</span> <span>4</span></div>
+        <div class="menu-item"><span>J.J Kurbergi Viinad</span> <span>4</span></div>
+        <div class="menu-item"><span>Rhum Cafe</span> <span>4</span></div>
+        <div class="menu-item"><span>Ararat 10 YO</span> <span>8</span></div>
+        <h3>Kokteilid</h3>
+        <div class="menu-item"><span>Morgan & Cola</span> <span>9</span></div>
+        <div class="menu-item"><span>Tanqueray Ten & Tonic</span> <span>10</span></div>
+        <div class="menu-item"><span>Junimperium Gin & Tonic</span> <span>8</span></div>
+        <div class="menu-item"><span>Monkey 47 Gin & Tonic</span> <span>13</span></div>
+    </div>
+
+    <div id="trepp" class="menu-container">
+        <h2>TREPP</h2>
+        <h3>Kokteilid</h3>
+        <div class="menu-item"><span>Vodka & Red Bull</span> <span>7.5/11</span></div>
+        <div class="menu-item"><span>Jäger & Red Bull</span> <span>7.5/11</span></div>
+        <div class="menu-item"><span>Rum & Cola</span> <span>7.5/11</span></div>
+        <div class="menu-item"><span>Gin & Tonic</span> <span>7.5/11</span></div>
+        <div class="menu-item"><span>Skinny Bitch</span> <span>7.5/11</span></div>
+        <div class="menu-item"><span>Tequila Sunrise</span> <span>7.5/11</span></div>
+        <div class="menu-item"><span>Sex on the Beach</span> <span>7.5/11</span></div>
+        <div class="menu-item"><span>Aperol Spritz</span> <span>8</span></div>
+        <div class="menu-item"><span>Tom Collins</span> <span>8/12</span></div>
+        <div class="menu-item"><span>Whiskey Sour</span> <span>8</span></div>
+        <div class="menu-item"><span>Bloody Mary</span> <span>8</span></div>
+        <div class="menu-item"><span>Negroni</span> <span>9</span></div>
+        <div class="menu-item"><span>Pina Colada</span> <span>9</span></div>
+        <div class="menu-item"><span>Long Island Iced Tea</span> <span>10</span></div>
+        <div class="menu-item"><span>Luunja Kuma</span> <span>8</span></div>
+        <div class="menu-item"><span>Illusioon</span> <span>8</span></div>
+        <div class="menu-item"><span>Tropic Sour</span> <span>8</span></div>
+        <div class="menu-item"><span>Buduaar</span> <span>9</span></div>
+        <div class="menu-item"><span>Corona Sunrise</span> <span>8.5</span></div>
+        <div class="menu-item"><span>15 Magamata Ööd</span> <span>9</span></div>
+        <div class="menu-item"><span>Raspberry Lip Gloss</span> <span>8</span></div>
+        <div class="menu-item"><span>Not My First Rodeo</span> <span>8</span></div>
+        <div class="menu-item"><span>Nätsuprintsess</span> <span>8</span></div>
+        <div class="menu-item"><span>Longero Island Iced Tea</span> <span>9</span></div>
+        <h3>Shotid</h3>
+        <div class="menu-item"><span>Jääkaru</span> <span>4/16</span></div>
+        <div class="menu-item"><span>Hapuoblikas</span> <span>4/16</span></div>
+        <div class="menu-item"><span>Rannapiiga</span> <span>4.5/18</span></div>
+        <div class="menu-item"><span>Jaagup Kreem</span> <span>4/16</span></div>
+        <div class="menu-item"><span>Üleval Näeme!</span> <span>5/20</span></div>
+        <div class="menu-item"><span>Mamma Õunakook</span> <span>4/16</span></div>
+        <div class="menu-item"><span>Golden Sour</span> <span>4.5/18</span></div>
+        <div class="menu-item"><span>Sa ei taha seda</span> <span>4/16</span></div>
+        <div class="menu-item"><span>McQueen</span> <span>4.5/18</span></div>
+        <div class="menu-item"><span>Jägerbomb</span> <span>9</span></div>
+        <div class="menu-item"><span>Vedel Marihuaana</span> <span>8</span></div>
+        <div class="menu-item"><span>Kakas saia, üks piim</span><span>9</span></div>
+        <div class="menu-item"><span>Bazinga!</span><span>9</span></div>
+        <div class="menu-item"><span>Megan Fox</span><span>9</span></div>
+        <div class="menu-item"><span>Silmatilgad</span><span>9</span></div>
+        <div class="menu-item"><span>Suudlevad tudengid</span><span>9</span></div>
+        <div class="menu-item"><span>Nibumetiin</span><span>9</span></div>
+        <div class="menu-item"><span>When life gives you lemons</span><span>9</span></div>
+        <div class="menu-item"><span>Tartu vaim</span><span>14</span></div>
+        <div class="menu-item"><span>Allmaailm</span><span>17</span></div>
+        <div class="menu-item"><span>Cutecumber</span><span>15</span></div>
+        <div class="menu-item"><span>Tutti Frutti</span><span>16</span></div>
+        <div class="menu-item"><span>Fineapple</span><span>16</span></div>
+        <div class="menu-item"><span>Roosiaed</span><span>16</span></div>
+        <div class="menu-item"><span>Kai Pitsit</span><span>16</span></div>
+        <div class="menu-item"><span>Bounty Shot</span><span>17</span></div>
+        <div class="menu-item"><span>10 tilka verd</span><span>14</span></div>
+    
+        <h3>Õlu/Siider</h3>
+        <div class="menu-item"><span>Kronenbourg</span><span>5.5</span></div>
+        <div class="menu-item"><span>Longero</span><span>5.5</span></div>
+        <div class="menu-item"><span>Somersby</span><span>5.5</span></div>
+        <div class="menu-item"><span>Alexander</span><span>5</span></div>
+        <div class="menu-item"><span>Karl Friedrich</span><span>4.5</span></div>
+        <div class="menu-item"><span>Blond munk</span><span>5</span></div>
+        <div class="menu-item"><span>Must nunn</span><span>5</span></div>
+        <div class="menu-item"><span>Corona</span><span>4.5</span></div>
+        <div class="menu-item"><span>Pühaste</span><span>6</span></div>
+        <div class="menu-item"><span>Ginger Joe</span><span>5</span></div>
+        <div class="menu-item"><span>Guiness</span><span>5.5</span></div>
+        <div class="menu-item"><span>Paulander</span><span>6</span></div>
+        <div class="menu-item"><span>Westons</span><span>7</span></div>
+        <div class="menu-item"><span>Paljasõun</span><span>4.5</span></div>
+        <div class="menu-item"><span>Sheppy's</span><span>7</span></div>
+        <div class="menu-item"><span>Strongero</span><span>5.5</span></div>
+        
+    </div>
+
+    <script>
+        function showMenu(menuId) {
+            // Peida kõik menüüd
+            const menus = document.querySelectorAll('.menu-container');
+            menus.forEach(menu => {
+                menu.style.display = 'none';
+            });
+
+            // Näita valitud menüüd
+            document.getElementById(menuId).style.display = 'block';
+        }
+    </script>
+</body>
+</html>
