@@ -1,3 +1,89 @@
 #kaart {
     height: 500px;
 }
+h1 {
+    font-family: "Garamond", serif;
+    
+}
+body {
+    font-family: "Garamond", serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 1s ease;
+    transition: color 1s ease;
+    display: inline-block; 
+    text-align: center;
+}
+
+.button:hover {
+    background-color: #000000;
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+search form {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+
+#otsing {
+    padding: 12px 20px;
+    font-size: 16px;
+    width: 300px; 
+    border: 2px solid #4CAF50; 
+    border-radius: 25px; 
+    outline: none;
+    transition: all 0.3s ease-in-out;
+    background-color: #f1f1f1; 
+}
+
+
+#otsing:focus {
+    border-color: #000000; 
+    box-shadow: 0 0 8px rgba(72, 202, 86, 0.7); 
+}
+
+
+#otsing::placeholder {
+    color: #888;
+    font-style: italic;
+}
+
+
+.search-button {
+    padding: 12px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-left: 10px;
+    transition: background-color 0.3s ease;
+}
+
+
+.search-button:hover {
+    background-color: #45a049;
+}
