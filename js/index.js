@@ -21,6 +21,15 @@ for (const nimi of Object.keys(data.baarid)){
 // ------OTSING------
 
 const otsing = document.getElementById("otsing");
+let joogid = new Set();
+const tulemused = document.querySelector(".otsingu-vastused");
+let eelminetulemus = new Array();
+let controller = new AbortController();
+
+
+
+Object.values(data.baarid).forEach(baar => Object.keys(baar.joogid).forEach(jook => joogid.add(jook))) 
+
 
 let debounceTimer;
 const debounce = (callback, time) => {
@@ -32,7 +41,7 @@ otsing.addEventListener(
     "input",
     (event) => {
         const query = event.target.value;
-        debounce(() => handleSeachPosts(query), 500);
+        debounce(() => handleSearchPosts(query), 100);
     },
     false
 );
@@ -44,10 +53,36 @@ const handleSearchPosts = (query) => {
         return
     }
 
-    let searchResults = [...data.baarid].filter(
-        (baar) =>
-            baar.
+    let searchResults = [...joogid].filter(
+        (jook) => jook.toLowerCase().includes(query)
+    );
 
-    )
+    controller.abort()
+    controller = new AbortController();
+    tulemused.innerHTML = "";
+    for (jook of searchResults) {
+        const tulemus = document.createElement("button");
+        tulemus.addEventListener("click", otsiJooki, {signal: controller.signal});
+        tulemus.innerHTML = jook;
+        tulemused.append(tulemus);
+    };
 }
+
+const otsiJooki = (event) => {
+    jook = event.target.innerHTML;
+    console.log(`otsin jooki ${jook}`);
+    for ([baari_nimi, baar] of eelminetulemus) {
+        baar.pin._icon.style.filter = "";
+        baar.pin.setPopupContent(`${baari_nimi}`);
+    }
+    for ([baari_nimi, baar] of Object.entries(data.baarid)) {
+        if (Object.keys(baar.joogid).includes(jook)) {
+            eelminetulemus.push([baari_nimi,baar])
+            baar.pin._icon.style.filter = "hue-rotate(120deg)";
+            baar.pin.setPopupContent(`<b>${baari_nimi}</b><br>${jook}: ${baar.joogid[jook]}`)
+            baar.pin.openPopup()
+        }
+    }
+}
+
 
