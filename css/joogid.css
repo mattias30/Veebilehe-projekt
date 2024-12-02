@@ -3,6 +3,8 @@ body {
     overflow: hidden;
 }
 
+
+
 .lingid {
     overflow: hidden;
     background-color: #333;
@@ -62,17 +64,29 @@ body {
 
 .column.sisu {
     width:100%;
-    height: 175px
+    height: 180px
 }
 
-#viin {
+img {
+
+    height: 130px;
+    width:114px;
+    margin-top: 20px;
+    justify-content: space-around;
+    object-fit: cover;
+    border: 5px solid rgb(78, 78, 128);
+
+}
+
+
+#viin, #tekiila, #rumm, #viski, #brandi, #likoorid, #kokteilid, #vein, #olu, #dzinn {
     text-align:center;
-    left: 50px;
-    top: -350px;
+    left: 300px;
+    top: -270px;
     padding: 35px;
     background-color: white;
     font-family: "Segoe UI";
-    width: 35%;
+    width: 55%;
 }
 
 
