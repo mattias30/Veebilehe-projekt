@@ -1,0 +1,315 @@
+KIVI:
+õlu/siider:
+Leffe : 5
+Peroni : 5
+Corona : 5.5
+Premium : 5
+Alexander : 5
+Tõmmu:hiid : 5.5
+Pilsner : 4
+Valmiermuiža : 5.5
+K.L.Weissbier : 7
+Urquell : 6
+Guiness : 5
+Special : 4
+Must nunn : 5
+Blond munk : 5
+Kivi pilku : 4.5
+Kosmos : 6
+Virmalised : 6
+Helge : 6
+Orange Gose : 6
+Prenzlauer Berg : 6
+Õhtu : 6
+Meri : 6
+Mosaiik : 6
+Vulin : 6
+Midnight giggle : 6
+Radiant Revel : 6
+Guava Gose : 6
+Westons : 8
+Galipette : 5
+Nuustak : 5
+Hoggy's : 6
+
+hartwall (gin/longero):
+Original : 5
+Grapefruit : 5
+Pineapple : 5
+Lemonade : 5
+Gin Turbo : 5.5
+
+punch:
+Raspberry : 7.5
+Moscow mule : 7.5
+Orange black tea : 7.5
+Gin & tonic : 7.5
+Rhubarb hibiscus : 7.5
+
+kokteilid:
+Woo woo : 8
+Pina colada : 8
+Tom Collins : 8
+Skinny bitch : 7
+Cabriolet : 9
+Long island : 12
+White russian : 6
+Tequila sunrise : 8
+Kakao minttu : 4.5
+Rüütli muul : 8
+Kreemikivi : 8
+Kivi sour : 8
+Džinnikivi : 8
+Mangotango : 8
+Spritzella : 8
+
+shotid:
+Hot shot : 4/16
+Libe nibu : 4/16
+Sitt murul : 4/16
+Hapuobliaks : 4/16
+Snickers : 4/16
+Kamikaze : 4
+Vitamiin : 4
+Kiviga pähe : 5
+Vedel marihuaana : 10
+Wet pussy : 10
+Limoncello : 4.5
+Viin : 4.5
+Fireball : 5.5
+Jose Cuervo : 4.5
+Don Julio : 10
+
+kokteilid:
+Hõbe : 2.5 +(1.5...4)
+Bacardi : 3.5 +(1.5...4)
+Peninuki : 5 +(1.5...4)
+Don Julio : 5 +(1.5...4)
+Sanchez Mezcal : 4 +(1.5...4)
+Malibu : 3.5 +(1.5...4)
+Aperol : 3 +(1.5...4)
+Jägermeister : 3.5 +(1.5...4)
+Bulleit : 5 +(1.5...4)
+Jack Daniels : 4 +(1.5...4)
+Bushmills : 4 +(1.5...4)
+Jameson : 4 +(1.5...4)
+Ardbeg : 6 +(1.5...4)
+Lagavulin : 8 +(1.5...4)
+Cachaca : 3.5 +(1.5...4)
+Cointreau : 3.5 +(1.5...4)
+Xante : 3.5 +(1.5...4)
+Martini Rubino : 3 +(1.5...4)
+Carpano Dry Vermut : 3 +(1.5...4)
+Carpano Bitter : 3 +(1.5...4)
+Fireball : 3.5 +(1.5...4)
+Vana Tallinn : 3 +(1.5...4)
+Stroh 80 : 4.5 +(1.5...4)
+Baileys : 3.5 +(1.5...4)
+Kahlua : 3.5 +(1.5...4)
+ Rodniks absint : 3.5 +(1.5...4)
+Sambuca : 3 +(1.5...4)
+Minttu : 3 +(1.5...4)
+Limoncello : 3 +(1.5...4)
+Licor 43 : 3 +(1.5...4)
+De Kuyper : 3 +(1.5...4)
+Remi Martin Vsop : 6 +(1.5...4)
+
+ Vein:
+ Lamberti Prosecco : 4/20
+ Lambrusco Di Sorbara : 20
+ Majavein Punane : 4/20
+ Majavein valge : 4/20
+
+Õlu/siider:
+Blond munk : 3/4
+Must nunn : 3/4
+Hoggy's : 3/4
+Gin Long Drink : 3/4
+Corona : 4
+Guiness : 4
+LOKAAL PIROGOV:
+
+õlu/siider/hartwall:
+Tuborg : 4.4
+Corona : 4.8
+Amigos : 4.8
+Lust : 4.8
+Blond munk : 5.2
+Must Nunn : 5.2
+Saku : 5.2
+La Trappe : 6
+Paulaner : 6
+Valmermuiža : 6
+Pinta : 6
+Lindemans Kriek : 7.2
+Guiness : 5.8
+Limburgse Witte : 4.8
+Karksi Siider : 5.2
+Somersby : 4.4
+Hoggy's : 4.4
+Galipette : 5
+Tartu:/humala siider : 6
+Brothers : 7
+Henry Westons : 7
+Pilsner urquell : 5/4.2
+Weihenstephaner : 5/4.2
+Stowford press : 5/4.2
+Steenbrugge brune : 5.8/4.6
+Kwas XY : 5.8/4.6
+Hartwall : 5
+
+
+SPACE BAR
+
+kokteilid:
+Sex on the Beach : 9
+Peach tree : 9
+Old fashioned : 9
+Skinny bitch : 9
+Cherry Galore : 10
+Daiquiri : 10
+Tom Collins : 10
+Vodka blush : 10
+Energy vodka : 10
+Rum cola : 10
+Tropical Collins : 11
+Warhead : 11
+Whiskey sour : 11
+Espresso Martini : 11
+Negroni : 11
+Tequila sunrise : 11
+Margarita : 12
+Blue motherfucker : 11
+
+shotid:
+Long live Fidel : 10/18
+Rasputin : 10/18
+morning wood : 10/18
+Mind eraser : 10/18
+Bubblegum bitch : 11/21
+Lemon drop : 11/21
+Sour tits : 11/21
+Zesty slut : 12/23
+blowjob : 13/25
+Something for your GF : 13/25
+Alien pussy : 13/25
+Woo woo : 13/25
+Green tea : 14/27
+Summer passion : 14/27
+French kiss : 15/28
+The ER shots : 20/38
+õlu:
+Alexander : 5
+Blanc : 6
+Corona : 5
+Cherry Beer : 6
+Tõmmu hiid : 5
+Heineken : 6
+Karl Friedrich : 5
+Pilsner : 5
+Porter : 6
+Pühaste : 6
+
+Rumm : 4
+Tequila : 5
+Viin : 4
+Brändi : 4
+viski : 5
+absint : 6
+Remy Martin : 10
+Hennessy : 10
+Stroh : 6
+Jääger : 4
+Liköör : 5
+Bourbon : 8
+
+
+tekst:
+<h2>Vein</h2>
+   <!--  <p>
+        Vein on alkohoolne jook, mis on saadud puuviljade fermenteerimise teel. Euroopa Liidus on lubatud veiniks nimetada vaid viinamarjadest kääritatud jooki. Veini on valmistatud üle 8000 aasta, sellega hakati esimest korda tegelema ühes kiviaegses asulas, mis asub tänapäeva Gruusias.
+        Maitse järgi liigitatakse veinid kuivadeks, poolkuivadeks, poolmagusateks ja magusateks veinideks. Värvi järgi jaotuvad veinid punasteks, roosadeks ja valgeteks. Liigitatakse ka marjasordi järgi, suhkrusisalduse põhjal või kasvukoha pinnase kvaliteedi alusel. 
+        Lisaks kasutatakse veini valmistamisel mitmesuguseid, tihti piirkondlikest iseärasustest tingitud spetsiifilisi tehnoloogiaid, mille tulemuseks on näiteks portveinid, vahuveinid, šerrid, burgunderid jt.
+    </p> -->
+    <h2>Õlu</h2>
+<!--     <p>
+        Õlu on kääritamise teel teraviljast või muust tärkliserikkast toorainest valmistatud alkohoolne jook.
+        Õlu on kõige populaarsem ja tõenäoliselt kõige vanem alkohoolne jook, olles vee ja tee järel kõige levinum jook üldse.
+        Arheoloogid oletavad, et õllel oli oluline roll tsivilisatsioonide kujunemises. Varaseimad märgid õlle keemilise koostise kohta pärinevad ajavahemikust 3500-3100 eKr Godin Tepe asulakohast Z̄āgrose mäestikus Lääne-Iraanis.
+        Õlle valmistamiseks kasvatatakse viljast linnased, millest valmistatakse meski, mis segatakse veega ja filtreeritakse ning saadakse virre.
+        Virret keedetakse tavaliselt koos humalatega, mis toimivad konservandina ning annavad õllele iseloomuliku mõrkja maitse.
+        Seejärel virre jahutatakse ja setitatakse ning sellele lisatakse kääritamiseks pärm.
+    </p> -->
+    <h2>Džinn</h2>
+   <!--  <p>
+        Džinn on destilleeritud alkohoolne jook, millele on iseloomulik maitsestamine kadakamarjadega.
+        Laukapuu džinni (inglise keeles sloe gin) valmistamisel kasutatakse maitse andmiseks laukaploome.
+        Algselt hakati džinni valmistama Hollandis. Jook oli mõeldud ravimiks, millele maitse meeldivamaks muutmiseks lisati kadakamarju.
+        Seetõttu sai uus alkohoolne jook nime genever (tuletatud prantsuskeelsest sõnast genièvre, mis tähendab kadakamarja).
+        Inglismaal tutvustas jooki Oranje Willelm 17. sajandil ning inglased lühendasid joogi nimetuse gin'iks.
+        Tänapäeval valmistatakse džinni eri viisidel, väga paljudest taimedest, on loodud palju stiile ja tootemarke. 
+        Lisaks kadakamarjale annavad džinnile maitse ka maitsetaimed, ürdid, õistaimed või puuviljad ja tihtipeale nende kombinatsioonid.
+        Džinni tarbitakse tavaliselt koos toonikuga (džinn toonikuga).
+    </p> -->
+    <h2>Viin</h2>
+   <!--  <p>
+        Viin ehk vodka on puhas destilleeritud kange alkohol, mida valmistatakse teraviljast või kartulist.
+        Alkoholi sisaldav jook, mis koosneb veest ja etanoolist. Viina etanoolisisaldus on 35-80%.
+        Viinatööstus on toiduainetööstuse haru, mis toodab eeskätt viina. Kodustes tingimustes valmistatud viina nimetatakse puskariks või samagonniks.
+    </p> -->
+    <h2>Viski</h2>
+    <!-- <p>
+        Viski on destilleeritud alkohoolne jook, mida destilleeritakse käärima lastud teraviljamassist ja küpsetatakse puitvaatides.
+        Viski tegemiseks kasutatavad teraviljad on muu hulgas oder, rukis, nisu ja mais.
+        Varaseimad andmed alkoholi destilleerimisest pärinevad 13. sajandist, kui alkoholi destilleeriti veinist.
+        Alkoholi destilleerimise saladuse tõid Iirimaale mungad Lähis-Idast.
+        Maailma vanim litsentseeritud destilleerimiskoda on Põhja-Iirimaal asuv Old Bushmills, mis sai oma tegevuslitsentsi aastal 1608.
+        1866. aastal maksustas USA valitsus viski ja Jack Daniel'sist sai sealne esimene registreeritud destilleerimiskoda.
+        1920. aastal võeti Ameerika Ühendriikides vastu kuiv seadus, mis kestis 14 aastat ja pani alguse illegaalsele viski tootmisele ja müümisele.
+        Inglise keelde on sõna whisky tulnud vanakeldikeelse sõna uisce / uisge inglispärastamisest. Vanakeldi keeles tähendab uisce / uisge vett.
+        Viskid erinevad alkoholisisalduse, tooraine ja kvaliteedi poolest.
+    </p> -->
+    <h2>Tekiila</h2>
+    <!-- <p>
+        Tekiila (hisp tequila) on kange (38-50%) ja kergelt kibe alkohoolne jook, mida valmistatakse Mehhiko lääneosas asuva Tequila ümbruses. 
+        Tekiilat valmistatakse tekiila-agaavist.
+        Linn on nime ja jook nimetuse saanud tequili suguharult, kes asustasid neid paiku enne asteekide vallutusi.
+        Kokku valmistatakse 35 marki tekiilat, arv on täpselt teada, sest tekiila tootmine Mehhikos on range riikliku kontrolli all.
+    </p> -->
+    <h2>Rumm</h2>
+    <!-- <p>
+        Rumm on kange, kuni 96% etanoolisisaldusega jook, mis saadakse fermenteerimise ja destilleerimise teel kas suhkruroomelassist või suhkruroomahlast ja -siirupist.
+        Rumm on niinimetatud Uue Maailma alkohol, sest enne Ameerika avastamist oli suhkrurooviin Euroopas tundmatu. 
+        Suhkruroost viina põletamise kunsti tunti Kesk- ja Lõuna-Ameerikas juba ammu enne seda, kui Kolumbus sinna sattus.
+        Spetsiifilise lõhna ja maitse tõttu sobib rumm kokteilidesse ning küpsetiste ja maiustuste maitsestamiseks. 
+        Klassikaline rummiretsept on rummikompott: rummi sisse pannakse maitsestuma marju ja puuvilju. 
+        Kompotti süüakse jäätise ja vahukoorega või vahvlite kõrvale. Rummiga maitsestatakse ka kohvi ja teed. 
+        Parimad kaaslased rummile on vanill, kaneel, apelsinid, nelk, kardemon, tähtaniis ja ingver. 
+        Just need ja rumm kuuluvad mitme jõulujoogi koostisse.
+    </p> -->
+    <h2>Brändi</h2>
+    <!-- <p>
+        Brändi on taimse päritoluga toorainest eriliselt töödeldud ja valmistatud (destilleeritud) alkohoolne jook, mis sisaldab tavaliselt umbes 40 mahuprotsenti alkoholi.
+        Brändit on valmistatud tõenäoliselt juba alates 12. sajandist.
+        Brändi valmistamisel kasutatakse toorainena mitmeid puuvilju, kuid levinuimaks tooraineks on küpsed viinamarjad, vein või veinitööstuse jäägid.
+        Valmistamisprotsessi käivitamiseks lastakse toorainel spetsiaalsetes anumates ja kontrollitud tingimustes viljades oleva loodusliku suhkru ning ensüümide toimel käärida.
+        Brändi tuleneb inglise sõnast brandy, mis on lühend sõnast brandywine, mis on laen hollandi sõnast brandewijn 'põletatud vein'.
+    </p> -->
+    <h2>Liköörid</h2>
+    <!-- <p>
+        Liköör on alkohoolne jook, mis sisaldab rohkesti suhkrut.
+        Liköörid jagunevad lahjadeks (kangusega alla 25–30%) ja kangeteks (kangusega üle 25–30%). 
+        Alkoholi (olenevalt likööri sordist võib selleks olla ka brändi, konjak, grappa jne) ja suhkru kõrval lisatakse likööri maitsestamiseks ka puuvilja- ja marjamahla, taimeleotisi, vürtse. 
+        Nüüdisajal valmistatakse suur osa likööre tegelikult kunstlikest essentsidest.
+        Kodusel teel saab likööre valmistada, lastes alkoholil tõmmata suhkru ja marjade või näiteks pähklite peal. 
+        Tuntud liköörid on näiteks šartröös, amaretto, limoncello, kürassao, benediktiin; Eestis Vana Tallinn.
+    </p> -->
+    <h2>Kokteilid</h2>
+    <!-- <p>
+        Kokteil on kahest või enamast koostisosast koosnev jook.
+        Kui algselt valmistati kokteile kiirelt ja kohapeal enne tarbimist, siis tänapäeval on levinud ka varem valmistatud ja hoidistatud kokteilid, mida tarvitatakse karastusjookidena.
+        Tavaliselt liigitatakse kokteilid eelkõige alkohoolseteks ja alkoholivabadeks.
+        Sageli lisatakse kokteilidele jääd, et suurendada nende värskendavat mõju, muuta maitset ning neid mõnikord ka lahjendada.
+        Alkoholivabade kokteilide põhikomponendina pruugitakse sageli piima või jäätist, samuti mitmesuguseid mahlu.
+        Kogu maailmas korraldatakse baarmenite vahel kokteilisegamises võistlusi, kus muuhulgas võisteldakse algupärastes kokteilides.
+    </p> -->
