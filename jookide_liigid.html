@@ -5,46 +5,72 @@
     <link rel="stylesheet" href="css\joogid.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>test</title>
+    <title>jookide_liigid</title>
 </head>
 <body>
-    <script src="js\script.js"></script>
 
-    <div class="container">
-        <div class="rida ülemine">
-            <div class="kast" onclick="showInfo('vein')"><h1>- Vein -</h1></div>
-            <div class="kast" onclick="showInfo('õlu')"><h1>- Õlu -</h1></div>
-            <div class="kast" onclick="showInfo('džinn')"><h1>- Džinn -</h1></div>
-            <div class="kast" onclick="showInfo('rumm')"><h1>- Rumm -</h1></div>
-            <div class="kast" onclick="showInfo('viski')"><h1>- Viski -</h1></div>
-        </div>
-        <div class="info">
-            <h1>Jookide liigid</h1>
-            <p>Jooke liigitatakse nende valmistusmeetodite ning valmistamiseks kasutatavate komponentide järgi.<br>
-                Kõige üldisemalt on 5 kategooriat alkohoolsete jookide eristamiseks:</p>
-            <table>  
-                <tr><td>Vein</td></tr> 
-                <tr><td>Õlu</td></tr>
-                <tr><td>Liköörid</td></tr>
-                <tr><td>Kokteilid</td></tr>
-            </table>
+
+
+    
+    <div class="lingid">
+        <a href="index.html">Pealehele</a><a href="kõrvalleht.html">Jookide nimekiri</a><a href="jookide_liigid.html">Jookide liigitamine</a>
+    </div>
+
+
+
+
+    <div class="column info">
+        <h1>Jookide liigid</h1>
+        <p>Jooke liigitatakse nende valmistusmeetodite ning valmistamiseks kasutatavate komponentide järgi.
+            Kõige üldisemalt on 5 kategooriat alkohoolsete jookide eristamiseks:</p>
+    </div>
+
+    <div class="column tyhi">
+        
+    </div>
+
+    <div class="column liigid">
+        <table>  
+            <tr><td>Vein</td></tr> 
+            <tr><td>Õlu</td></tr>
+            <tr><td>Liköörid</td></tr>
+            <tr><td>Kokteilid</td></tr>
+        </table>
             <table>
                 <tr><td>Kanged joogid - džinn, viin, viski, tekiila, rumm, brändi</td></tr>
             </table>
+    </div>
+
+    <div class="column sisu">
+        <!-- <img src="pildid_lehel_2/brandi.jpg" alt="brändi"> -->
+    </div>
+
+        <div class="column joogid">
+            <div class="rida">
+                <div class="kast" onclick="showInfo('vein')"><h2>- Vein -</h2></div>
+                <div class="kast" onclick="showInfo('õlu')"><h2>- Õlu -</h2></div>
+                <div class="kast" onclick="showInfo('džinn')"><h2>- Džinn -</h2></div>
+                <div class="kast" onclick="showInfo('rumm')"><h2>- Rumm -</h2></div>
+                <div class="kast" onclick="showInfo('viski')"><h2>- Viski -</h2></div>
+            </div>
+    
+            
+            <div class="rida">
+                <p popover id="viin">Viin ehk vodka on puhas destilleeritud kange alkohol, mida valmistatakse teraviljast või kartulist. Viina etanoolisisaldus on 35-80%. Viinatööstus on toiduainetööstuse haru, mis toodab eeskätt viina. Kodustes tingimustes valmistatud viina nimetatakse puskariks või samagonniks.</p>
+                <div class="kast"><button popovertarget="viin"><h2>- Viin -</h2></div>
+                <p popover id="tekiila"></p>
+                <div class="kast"><button popovertarget="tekiila"><h2>- Tekiila -</h2></div>
+                <p popover id="brandi"></p>
+                <div class="kast"><button popovertarget="brandi"><h2>- Brändi -</h2></div>
+                <p popover id="likoorid"></p>
+                <div class="kast"><button popovertarget="likoorid"><h2>- Liköörid -</h2></div>
+                <p popover id="kokteilid"></p>
+                <div class="kast"><button popovertarget="kokteilid"><h2>- Kokteilid -</h2></div>
+            </div>
         </div>
-        
-        <div class="rida alumine">
-            <div class="kast" onclick="showInfo('viin')"><h1>- Viin -</h1></div>
-            <div class="kast" onclick="showInfo('tekiila')"><h1>- Tekiila -</h1></div>
-            <div class="kast" onclick="showInfo('brändi')"><h1>- Brändi -</h1></div>
-            <div class="kast" onclick="showInfo('liköörid')"><h1>- Liköörid -</h1></div>
-            <div class="kast" onclick="showInfo('kokteilid')"><h1>- Kokteilid -</h1></div>
+        <div class="lingid lopp">
+
         </div>
-
-
-
-
-</div>
 
 
 
