@@ -3,26 +3,6 @@ body {
 }
 
 
-
-.lingid {
-    overflow: hidden;
-    background-color: #333;
-}
-
-.lingid a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-.lingid a:hover {
-    background-color: #ddd;
-    color: black;
-}
-
 .column {
     float: left;
   }
@@ -32,7 +12,7 @@ body {
     width: 30%;
     border: 2px solid gold;
     border-radius: 10px;
-    background-color: white;
+    background-color: rgb(234, 236, 226);
 }
 
 .joogid {
