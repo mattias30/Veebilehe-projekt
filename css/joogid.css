@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    overflow: hidden;
 }
 
 
@@ -19,7 +18,7 @@ body {
     text-decoration: none;
 }
 
-  .lingid a:hover {
+.lingid a:hover {
     background-color: #ddd;
     color: black;
 }
@@ -28,7 +27,7 @@ body {
     float: left;
   }
 
-.column.info {
+.info, p, h3 {
     text-align: center; 
     width: 30%;
     border: 2px solid gold;
@@ -36,91 +35,34 @@ body {
     background-color: white;
 }
 
-.column.tyhi {
-    width: 70%;
-    height: 5px;
-}
-
-.column.liigid {
-    width: 30%;
-    size: 20px;
-    border: 2px solid gold;
-    border-radius: 10px;
-    background-color: white;
-  }
-
-.column.joogid {
+.joogid {
     width: 100%;
     height: 20%;
 }
 
-  @media screen and (max-width: 600px) {
-    .column.info, .column.tyhi {
-      width: 100%;
-      height: 100%;
-    }
-  }
-
 
 .column.sisu {
-    width:100%;
+    width:50%;
     height: 180px
 }
 
 img {
 
-    height: 130px;
-    width:114px;
-    margin-top: 20px;
-    justify-content: space-around;
+    height: 120px;
+    width:134px;
+    margin-top: 10px;
+    justify-content: space-evenly;
     object-fit: cover;
     border: 5px solid rgb(78, 78, 128);
 
 }
 
 
-#viin, #tekiila, #rumm, #viski, #brandi, #likoorid, #kokteilid, #vein, #olu, #dzinn {
-    text-align:center;
-    left: 300px;
-    top: -270px;
-    padding: 35px;
-    background-color: white;
-    font-family: "Segoe UI";
-    width: 55%;
-}
-
 
 .rida {
     display: flex;
-    justify-content: space-around; 
+    justify-content: space-evenly; 
     padding: 5px; 
-}
-
-
-.kast {
-    width: 150px;
-    height: 45px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 3px solid gold; 
-}
-
-
-.kast button {
-
-    padding: 1px 10px;
-    margin: auto;
-    border: 2px solid gold;
-    width: 300px;
-    height: 40px;
-    cursor: pointer;
-    border-radius: 5px;
-}
-
-p {
-    text-align: center;
-    size: 13px;
 }
 
 h1 {
