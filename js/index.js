@@ -54,7 +54,7 @@ const handleSearchPosts = (query) => {
     }
 
     let searchResults = [...joogid].filter(
-        (jook) => jook.toLowerCase().includes(query)
+        (jook) => jook.toLowerCase().includes(searchQuery)
     );
 
     controller.abort()
